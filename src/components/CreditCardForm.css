@@ -1,0 +1,9 @@
+.expiration-date {
+    display: flex;   
+    align-items: center;
+}
+
+.divider {
+    margin: 0 5px;
+    transform: scaleY(2.5);
+}
